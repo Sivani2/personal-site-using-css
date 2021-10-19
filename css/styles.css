@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    color: #316B83;
+    margin: 0;
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color: #316B83;
+    font-size: 50px;
+    font-family: 'Sacramento', cursive;
+}
+h3{
+    color: #316B83;
+    font-size: 50px;
+    font-family: 'Sacramento', cursive;
+}
+hr{
+    border:dotted;
+    color: #316B83;
+    border-bottom: none;
+    width:5%;
+    border-width: 5px;
+}
+.footer-link{
+    color: #6D8299;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+.footer-link:hover{
+    color: #ffffff;
+}
+p{
+    font-size: 30px;
+    font-family: 'Sacramento', cursive;
+    color: #6D8299;
+}
+
+.profile-pic{
+    position: relative;
+    top: 10px;
+}
+.top-container{
+    background-image: url("https://images.pexels.com/photos/733857/pexels-photo-733857.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260") ;
+background-position:center ;
+background-repeat: no-repeat;
+background-size: cover;
+height: 600px;
+width: 100%;
+
+}
+.header1{
+    position: relative;
+    top:200px;
+}
+.para1{
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+    position: relative;
+    top:140px;
+}
+.btn {
+    background: #316B83;
+    background-image: -webkit-linear-gradient(top, #316B83, #010203);
+    background-image: -moz-linear-gradient(top, #316B83, #010203);
+    background-image: -ms-linear-gradient(top, #316B83, #010203);
+    background-image: -o-linear-gradient(top, #316B83, #010203);
+    background-image: linear-gradient(to bottom, #316B83, #010203);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #295d7d;
+    background-image: -webkit-linear-gradient(top, #295d7d, #2b5c7d);
+    background-image: -moz-linear-gradient(top, #295d7d, #2b5c7d);
+    background-image: -ms-linear-gradient(top, #295d7d, #2b5c7d);
+    background-image: -o-linear-gradient(top, #295d7d, #2b5c7d);
+    background-image: linear-gradient(to bottom, #295d7d, #2b5c7d);
+    text-decoration: none;
+  }
+  .middle-container{
+      padding-bottom: 20px;
+  }
+.bottom-container{
+    background-color: #316B83;
+    padding-top: 30px  ;
+    height: 100%;
+    }
+    .copyright{
+        color:#ffffff;
+        font-size: 20px;
+    }
+
+    
